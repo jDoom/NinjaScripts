@@ -1,0 +1,1 @@
+*MyDocuments*\NinjaTrader 8\bin\Custom\System.Windows.Controls.WpfPropertyGrid.dll
